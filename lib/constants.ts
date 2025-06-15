@@ -21,5 +21,5 @@
 /**
  * Default Live API model to use
  */
-export const DEFAULT_LIVE_API_MODEL = 'gemini-2.5-flash-preview-native-audio-dialog';
+export const DEFAULT_LIVE_API_MODEL = 'AIzaSyCit2tTh9U2VG7S55SM-uysCCReS-bL5pA';
 
