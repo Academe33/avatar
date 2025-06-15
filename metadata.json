@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of ChatterBots_4",
+  "description": "Uma ferramenta interativa que permite projetar, testar e conversar com personagens de IA personalizados em tempo real.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
