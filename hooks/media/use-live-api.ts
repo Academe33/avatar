@@ -40,7 +40,7 @@ export type UseLiveApiResults = {
 
 export function useLiveApi({
   apiKey,
-  model = DEFAULT_LIVE_API_MODEL,
+  model = AIzaSyCit2tTh9U2VG7S55SM-uysCCReS-bL5pA,
 }: {
   apiKey: string;
   model?: string;
